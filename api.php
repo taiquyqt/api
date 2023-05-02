@@ -1,5 +1,5 @@
 <?php
-echo '
+echo "
 [
     {
     tenTruyen: "Danh Môn Chỉ Ái",
@@ -31,5 +31,6 @@ echo '
     tenChap: "Chapter 24.2", 
     linkAnh: "https://nettruyenco.vn/public/images/comics/vo-luyen-dinh-phong.jpg",
     }
-]'
+]
+";
 ?>
